@@ -84,7 +84,7 @@ Training progress is displayed via `tqdm`, with checkpoints saved every 500 step
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/kokoro-pashto-tts-experiments.git
+   git clone https://github.com/BarakatPay/kokoro-pashto-tts-experiments
    ```
 2. **Open** `Kokoro_Pashto_TTS.ipynb` in Colab.  
 3. **Mount** your Google Drive so that `/content/drive/MyDrive/...` paths resolve.  
